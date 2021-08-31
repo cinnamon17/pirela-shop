@@ -1,0 +1,67 @@
+/*
+ * Theme Name: Pirela Store
+ * Theme URI: www.pirela.shop
+ * Author: Pirela's Store
+ * Author URI: www.pirela.shop
+ * Description: pirela's ecommerce site
+ * Version: 1.0
+ * Requires at least: 5.7
+ * Tested up to: 5.7
+ * Requires PHP: 7.0
+ * Licence: GPL
+ * Licence URI: www.pirela.shop
+ * Text Domain: pirela-store
+*/
+
+.home {
+
+
+}
+
+.page-template-default{
+
+}
+
+.page{
+
+}
+
+.page-id-2{
+
+}
+
+.logged-in{
+
+}
+
+.admin-bar{
+
+}
+
+.no-customize-support{
+
+}
+
+body{
+    margin:0;
+    padding:0;
+}
+
+header {
+    height:6rem;
+    background-color:#f572c1;
+
+}
+
+footer {
+    height:6rem;
+    background-color:#000;
+}
+
+.columns-4{
+
+}
+
+.product-type-simple {
+
+}
